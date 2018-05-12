@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25135'
     url: http://www.gutenberg.org/2009/agents/25135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22137#R-mur-af-Gr-manni---Gar-shorni
 gutenberg_issued: '2007-07-24'
 gutenberg_type: Text
 identifiers:
