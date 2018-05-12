@@ -1,0 +1,29 @@
+_repo: R-mur-af-Gr-manni---Gar-shorni_22137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jón Hjaltason
+    aliases:
+    - Jon Hjaltason
+    - Hjaltason, Jón
+    birthdate: 1839
+    deathdate: 1883
+    gutenberg_agent_id: '25135'
+    url: http://www.gutenberg.org/2009/agents/25135
+description: ''
+gutenberg_issued: '2007-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22137'
+language: is
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PT'
+title: Rímur af Grámanni í Garðshorni
+url: http://www.gutenberg.org/ebooks/22137
